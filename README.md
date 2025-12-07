@@ -3,6 +3,8 @@
 
 # **Credit Card Fraud Detection 🔍💳**
 
+![Image](https://github.com/mani544/Creditcard-Fraud-Detection-using-Machine-Learning/blob/main/ML%20CREDIT.jpg)
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python\&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Modeling%20%26%20ML-F7931E?logo=scikit-learn\&logoColor=white)
